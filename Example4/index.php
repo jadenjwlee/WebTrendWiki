@@ -51,20 +51,20 @@
         </div>
         
         <div class="navbar-collapse collapse">
-            <ul  class="nav navbar-nav" class=" nav navbar-nav">
-                <li >
-                    <a >Example1</a>
-                </li>
-                 <li >
-                    <a >Example2</a>
-                </li>
-                 <li class="active">
-                    <a >Example3</a>
-                </li>
-                 <li >
-                    <a >Example4</a>
-                </li>
-            </ul>
+                <ul  class="nav navbar-nav" class=" nav navbar-nav">
+                    <li >
+                        <a href="../Example1/index.html" target="_top" >Example 1</a>
+                    </li>
+                    <li>
+                        <a href="../Example2/index.php"  target="_top" >Example 2</a>
+                    </li>
+                     <li>
+                        <a href="../Example3/wiki.php"  target="_top" >Exampl 3</a>
+                    </li>
+                    <li class="active" >
+                        <a href="../Example4/index.php"  target="_top" >Example 4</a>
+                    </li>
+                </ul>
            
         </div>
     </div>
